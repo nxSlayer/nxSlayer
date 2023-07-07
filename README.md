@@ -1,15 +1,5 @@
 # Perfil do Desenvolvedor Backend
 
-## Habilidades Técnicas
-```
-- Linguagens de Programação: Python, Node.js
-- Frameworks e Bibliotecas: Flask, Express.js, discord.js
-- Bancos de Dados: MongoDB
-- Ferramentas de Desenvolvimento: Git, VSCode
-
-Futuras linguagens: C#, Java, PHP
-```
-
 ## Projetos Públicos
 ```
 (user-discord) - (Python)
