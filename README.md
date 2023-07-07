@@ -1,9 +1,5 @@
 # Perfil do Desenvolvedor Backend
 
-## Sobre Mim
-
-Olá! Sou um desenvolvedor backend especializado em Python e Node.js. Tenho paixão por construir aplicativos escaláveis e robustos, e estou sempre procurando por novos desafios para aprimorar minhas habilidades.
-
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** Python, Node.js
