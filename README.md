@@ -1,15 +1,14 @@
-# Perfil do Desenvolvedor Backend
+## Desenvolvendo patos
 
-## Projetos Públicos
-```
-(user-discord) - (Python)
-   Uma biblioteca síncrona interativa para o uso de contas reais do discord, com ligação ao websocket, handler de eventos e comandos
-```
-## Projetos Particulares
-```
-(API para autenticação) - (Express.js)
-   Uma api para autenticação para um sistema de keys, criação de novas keys e delete
 
-(Bot de filmes no Discord) - (Nodejs, Flask, discord.js)
-   Um bot que quando utilizado o comando, o mesmo retornará uma lista de filmes, caso o usuário clicar em algum filme irá abrir um menu com as informações e um botão para assistir, esse botão irá redirecionar para uma api feita com flask, na qual irá renderizar o iframe do filme
-```
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://devicons.railway.app/i/python.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://devicons.railway.app/i/javascript.svg">
+</div>
+  
+  ##
+ 
+<div>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
