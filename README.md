@@ -6,6 +6,8 @@
 - Frameworks e Bibliotecas: Flask, Express.js, discord.js
 - Bancos de Dados: MongoDB
 - Ferramentas de Desenvolvimento: Git, VSCode
+
+Futuras linguagens: C#, Java, PHP
 ```
 
 ## Projetos Públicos
