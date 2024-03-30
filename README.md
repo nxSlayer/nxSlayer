@@ -8,7 +8,7 @@
 
   # Basic
   <img align="center" alt="Csharp" height="30" width="40" src="https://devicons.railway.app/i/csharp.svg">
-  <img align="center" alt="cplusplus" height="30" width="30" src="https://devicons.railway.app/i/cplusplus.png">
+  <img align="center" alt="cplusplus" height="30" width="25" src="https://devicons.railway.app/i/cplusplus.png">
 
   #
   <img align="center" alt="MongoDB" height="30" width="40" src="https://devicons.railway.app/i/mongodb.svg">
