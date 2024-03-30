@@ -11,8 +11,8 @@
   <img align="center" alt="cplusplus" height="30" width="25" src="https://devicons.railway.app/i/cplusplus.png">
 
   #
-  <img align="center" alt="Flask" height="30" width="40" src="https://devicons.railway.app/i/flask-dark.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://devicons.railway.app/i/nextjs-dark.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://devicons.railway.app/i/flask-light.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://devicons.railway.app/i/nextjs-light.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://devicons.railway.app/i/mongodb.svg">
   <img align="center" alt="Discord-Developer" height="45" width="45" src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png">
 </div>
