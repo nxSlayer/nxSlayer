@@ -12,7 +12,8 @@
 
   #
   <img align="center" alt="Flask" height="30" width="40" src="https://devicons.railway.app/i/flask-light.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://devicons.railway.app/i/nextjs-light.svg">
+  <img align="center" alt="NextJs" height="30" width="40" src="https://devicons.railway.app/i/nextjs-light.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://devicons.railway.app/i/mongodb.svg">
   <img align="center" alt="Discord-Developer" height="45" width="45" src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png">
 </div>
